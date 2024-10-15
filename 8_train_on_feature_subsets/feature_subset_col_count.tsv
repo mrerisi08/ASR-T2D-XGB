@@ -1,0 +1,31 @@
+Medical History	135
+SDoH	15
+Procedure	14
+Test	128
+Medication	133
+Medical History, SDoH	147
+Medical History, Procedure	148
+Medical History, Test	261
+Medical History, Medication	267
+SDoH, Procedure	28
+SDoH, Test	142
+SDoH, Medication	147
+Procedure, Test	141
+Procedure, Medication	146
+Test, Medication	256
+Medical History, SDoH, Procedure	160
+Medical History, SDoH, Test	273
+Medical History, SDoH, Medication	279
+Medical History, Procedure, Test	274
+Medical History, Procedure, Medication	280
+Medical History, Test, Medication	389
+SDoH, Procedure, Test	155
+SDoH, Procedure, Medication	160
+SDoH, Test, Medication	270
+Procedure, Test, Medication	269
+Medical History, SDoH, Procedure, Test	286
+Medical History, SDoH, Procedure, Medication	292
+Medical History, SDoH, Test, Medication	401
+Medical History, Procedure, Test, Medication	402
+SDoH, Procedure, Test, Medication	283
+Medical History, SDoH, Procedure, Test, Medication	414

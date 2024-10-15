@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+#.venv/bin
+__pycache__/
+#.idea/
+*.DS_Store
+#
+#0_inputs/.DS_Store
+#.venv/
+#
+## Ignore Python bytecode files
+#__pycache__/
+#*.py[cod]
+
+# Ignore environment files
+.env
+.venv/
+
+# Ignore IDE and editor config files
+.idea/
