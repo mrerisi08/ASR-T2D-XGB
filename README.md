@@ -1,5 +1,7 @@
 # ASR-T2DM-ML
 
+Repository for a research project done by Max Rerisi, mentored by Dr. Mathieu Ravaut.
+
 Do not attempt to run 0_generate_pseudo_data.py. It does not have the real data from which to generate the pseudo data.
 
 1_data_process.py has the normalization of numerical features in an unreachable if statement because the pseudo data by default is from 0-1. Similarly, processing binary features is disabled because the binary pseudo data was generated as 0/1 and didn't need to be processed like the original dataset.<br>
